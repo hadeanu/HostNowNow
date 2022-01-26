@@ -300,6 +300,10 @@ h2{
 
 
 /*----testimonials----*/
+.row{
+  display: flex;
+  gap: 20px;
+}
 .testimonials{
   width: 80%;
   margin: auto;
